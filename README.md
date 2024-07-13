@@ -29,6 +29,11 @@ cd recruitment-task-go
 go mod tidy
 ```
 
+3. Create .env file
+```
+cp example.env .env
+```
+
 ### Running the Application
 ```
 go run main.go
