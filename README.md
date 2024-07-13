@@ -20,7 +20,7 @@ PORT=8080
 
 1. Clone the repository
 ```
-git clone https://github.com/Bartosz-D3V/recruitment-task-go
+git clone git@github.com:Bartosz-D3V/recruitment-task-go.git
 cd recruitment-task-go
 ```
 
