@@ -13,7 +13,7 @@ PORT=8080
 ```
 
 * INPUT_PATH: Specifies the path to the text file containing numbers.
-* LOG_LEVEL: Sets the logging level for the application (e.g., debug, info, warn, error).
+* LOG_LEVEL: Sets the logging level for the application (debug, info, error).
 * PORT: Specifies the port on which the server will run.
 
 ### Installation
@@ -44,7 +44,7 @@ By default, the application starts on localhost at the port specified in the .en
 
 ### Example
 #### Request
-```http request
+```
 curl --location --request GET 'localhost:3000/endpoint/1100'
 ```
 #### Response

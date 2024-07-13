@@ -1,4 +1,4 @@
-package main
+package route
 
 type FoundIndexBody struct {
 	FoundIndex int `json:"foundIndex"`

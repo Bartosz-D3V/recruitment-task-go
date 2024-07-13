@@ -1,4 +1,4 @@
-package main
+package route
 
 import (
 	"github.com/Bartosz-D3V/recruitment-task-go/service"
